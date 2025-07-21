@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="F_number">First number</string>
+    <string name="S_number">Second number</string>
+    <string name="Addition_btn">+</string>
+    <string name="Multipli_btn">*</string>
+    <string name="Substraction_btn">-</string>
+    <string name="Division_btn">/</string>
+</resources>

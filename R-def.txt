@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id Add
+id Div
+id Mul
+id Result_show
+id Sub
+id f_num
+id main
+id s_num
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string Addition_btn
+string Division_btn
+string F_number
+string Multipli_btn
+string S_number
+string Substraction_btn
+string app_name
+style Base.Theme.SimpleCalculator
+style Theme.SimpleCalculator
+xml backup_rules
+xml data_extraction_rules
